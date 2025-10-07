@@ -2,7 +2,7 @@
 
 A modern and interactive Fitness Web Application built using React, JavaScript, HTML, and CSS, designed to help users track workouts, explore exercises, and maintain a healthy lifestyle.
 
-🌐 Live Demo → [My Fitness App](https://my-fitness-app-main-1acmrrbp2-overall-health.vercel.app/)
+🌐 Live Demo → [My Fitness App](https://my-fitness-app-main.vercel.app/)
 
 🚀 Features
 
